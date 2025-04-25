@@ -20,7 +20,9 @@ Based on a deep learning neural network (NN) algorithm, a super fast and easy to
 A NN was constructed and trained on MWI data acquired by a 32-echo 3D gradient and spin echo (GRASE) sequence. Ground truth labels were created by regularized non-negative least squares (NNLS) with stimulated echo corrections. Voxel-wise GRASE data from 5 brains (4 healthy, 1 multiple sclerosis (MS)) were used for NN training. The trained NN was tested on 2 healthy brains, 1 MS brain with segmented lesions, 1 healthy spinal cord, and 1 healthy brain acquired from a different scanner.
 
 **Results:**
+
 Production of whole brain MWF maps in approximately 33 ​s can be achieved by a trained NN without graphics card acceleration. For all testing regions, no visual differences between NN and NNLS MWF maps were observed, and no obvious regional biases were found. Quantitatively, all voxels exhibited excellent agreement between NN and NNLS (all R2>0.98, p ​< ​0.001, mean absolute error <0.01).
 
 **Conclusion:**
+
 The time for accurate MWF calculation can be dramatically reduced to less than 1 ​min by the proposed NN, addressing one of the barriers facing future clinical feasibility of MWI.

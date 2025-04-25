@@ -20,7 +20,9 @@ To assess the extent of demyelination in cervical spondylotic myelopathy (CSM) u
 Somatosensory evoked potentials (SSEPs) and MWI were acquired in 14 patients with CSM and 18 age-matched healthy controls. MWI was performed on a 3.0T whole body magnetic resonance scanner. Myelin water fraction (MWF) was extracted for the dorsal columns and whole cord. SSEPs and MWF were also compared with conventional MRI outcomes, including T2 signal intensity, compression ratio, maximum spinal cord compression (MSCC), and maximum canal compromise (MCC).
 
 **Results:**
+
 Group analysis showed marked differences in T2 signal intensity, compression ratio, MSCC, and MCC between healthy controls and patients with CSM. There were no group differences in MWF and SSEP latencies. However, patients with CSM with pathologic SSEPs exhibited reduction in MWF (p < 0.05). MWF was also correlated with SSEP latencies.
 
 **Conclusion:**
+
 Our findings provide evidence of decreased myelin content in the spinal cord associated with impaired spinal cord conduction in patients with CSM. While conventional MRI are of great value to define the extent of cord compression, they show a limited correlation with functional deficits (i.e., delayed SSEPs). MWI provides independent and complementary readouts to spinal cord compression, with a high specificity to detect impaired conduction.
