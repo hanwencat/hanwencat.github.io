@@ -22,7 +22,7 @@ repository               : "hanwencat/hanwencat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Hanwen.png"
   name             : "Hanwen Liu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow at UBC"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=_upY0NQAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=_upY0NQAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5052-1424"
   semantic         : # URL
@@ -158,6 +158,7 @@ include:
   - _pages
   - files
 exclude:
+  - .conda
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
