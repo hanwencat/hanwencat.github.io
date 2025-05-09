@@ -6,7 +6,7 @@ permalink: /publication/2021-12-01-cervical-cord-myelin-abnormality-is-associate
 excerpt: 'Optimized cervical cord myelin water imaging in relapsing-remitting and progressive MS patients reveals quantitative myelin deficits that strongly correlate with clinical disability scores, underscoring MWI’s promise as an objective biomarker of disease severity.'
 date: 2021-12-01
 venue: 'Multiple Sclerosis Journal'
-slidesurl: '/files/paper5.pdf'
+slidesurl: '/files/coauthor/lisa_ms_cord.pdf'
 paperurl: 'https://doi.org/10.1177/13524585211001780'
 bibtexurl: '/files/bibtex5.bib'
 citation: 'Lee, LE. Vavasour, IM. Dvorak, A. Liu, H. Abel, S. Johnson, P. Ristow, S. Au, S. Laule, C. Tam, R. Li, DK. Cross, H. Ackermans, N. Schabas, AJ. Chan, J. Sayao, A. Devonshire, V. Carruthers, R. Traboulsee, A. Kolind, S. (2021). “Cervical cord myelin abnormality is associated with clinical disability in multiple sclerosis.” <i>Multiple Sclerosis Journal</i>, 27(14):2191-2198.'

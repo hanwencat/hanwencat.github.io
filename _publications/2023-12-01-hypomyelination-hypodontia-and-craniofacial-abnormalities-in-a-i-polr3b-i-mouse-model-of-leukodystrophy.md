@@ -6,7 +6,7 @@ permalink: /publication/2023-12-01-hypomyelination-hypodontia-and-craniofacial-a
 excerpt: 'Using an inducible Polr3bΔ10 mouse model of POLR3‐related hypomyelinating leukodystrophy, the authors show that postnatal expression of the hypomorphic Pol III subunit causes widespread CNS hypomyelination, hypodontia, and craniofacial abnormalities. Proteomic analyses by affinity purification–mass spectrometry then reveal the molecular mechanisms of Pol III complex dysfunction underlying these phenotypes.'
 date: 2023-12-01
 venue: 'Brain'
-slidesurl: '/files/paper2.pdf'
+slidesurl: '/files/coauthor/robinson_mouse.pdf'
 paperurl: 'https://doi.org/10.1093/brain/awad249'
 bibtexurl: '/files/bibtex2.bib'
 citation: 'Michell-Robinson, MA. Watt, KEN. Grouza, V. Macintosh, J. Pinard, M. Tuznik, M. Chen, X. Darbelli, L. Wu, C. Perrier, S. Chitsaz, D. Uccelli, NA. Liu, H. Cox, TC. Müller, CW. Kennedy, TE. Coulombe, B. Rudko, DA. Trainor, PA. Bernard, G. (2023). “Hypomyelination, hypodontia and craniofacial abnormalities in a <i>Polr3b</i> mouse model of leukodystrophy.” <i>Brain</i>, 146(12):5070-5085.'

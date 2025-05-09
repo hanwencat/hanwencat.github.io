@@ -6,7 +6,7 @@ permalink: /publication/2019-11-01-myelin-water-atlas-a-template-for-myelin-dist
 excerpt: 'The authors created a normative brain myelin water atlas from 3T MWI data of 50 healthy adults—revealing significant regional variability in myelin content—and then applied voxel-wise z-score mapping to detect demyelination in individual multiple sclerosis patients, demonstrating the atlas’s potential for personalized clinical assessment.'
 date: 2019-11-01
 venue: 'Journal of Neuroimaging'
-slidesurl: '/files/paper11.pdf'
+slidesurl: '/files/first_author/atlas_brain.pdf'
 paperurl: 'https://doi.org/10.1111/jon.12657'
 bibtexurl: '/files/bibtex11.bib'
 citation: 'Liu, H. Rubino, C. Dvorak, AV. Jarrett, M. Ljungberg, E. Vavasour, IM. Lee, LE. Kolind, SH. MacMillan, EL. Traboulsee, A. Lang, DJ. Rauscher, A. Li, DK. MacKay, AL. Boyd, LA. Kramer, JL. Laule, C. (2019). “Myelin Water Atlas: A Template for Myelin Distribution in the Brain.” <i>Journal of Neuroimaging</i>, 29(6):699-706.'

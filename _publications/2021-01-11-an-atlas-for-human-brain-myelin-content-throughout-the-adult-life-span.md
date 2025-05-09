@@ -6,7 +6,7 @@ permalink: /publication/2021-01-11-an-atlas-for-human-brain-myelin-content-throu
 excerpt: 'Leveraging high-resolution myelin water imaging in 100 healthy adults, this study constructed optimized anatomical templates and accompanying myelin water fraction (MWF) and intra-/extra-cellular T₂ (IET₂) atlases, then used these atlases to systematically map how myelin content varies with age and demographic factors across the adult lifespan.'
 date: 2021-01-11
 venue: 'Scientific Reports'
-slidesurl: '/files/paper7.pdf'
+slidesurl: '/files/coauthor/adam_atlas.pdf'
 paperurl: 'https://doi.org/10.1038/s41598-020-79540-3'
 bibtexurl: '/files/bibtex7.bib'
 citation: 'Dvorak, AV. Swift-LaPointe, T. Vavasour, IM. Lee, LE. Abel, S. Russell-Schulz, B. Graf, C. Wurl, A. Liu, H. Laule, C. Li, DKB. Traboulsee, A. Tam, R. Boyd, LA. MacKay, AL. Kolind, SH. (2021). “An atlas for human brain myelin content throughout the adult life span.” <i>Scientific Reports</i>, 11(1).'

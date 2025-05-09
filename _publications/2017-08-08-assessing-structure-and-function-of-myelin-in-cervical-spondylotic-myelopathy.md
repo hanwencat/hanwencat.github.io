@@ -6,7 +6,7 @@ permalink: /publication/2017-08-08-assessing-structure-and-function-of-myelin-in
 excerpt: 'Combining myelin water imaging and somatosensory evoked potentials, this study demonstrates significant spinal cord demyelination in cervical spondylotic myelopathy patients that correlates with conduction delays, offering greater specificity than conventional MRI.'
 date: 2017-08-08
 venue: 'Neurology'
-slidesurl: '/files/paper13.pdf'
+slidesurl: '/files/first_author/csm.pdf'
 paperurl: 'https://doi.org/10.1212/wnl.0000000000004197'
 bibtexurl: '/files/bibtex13.bib'
 citation: 'Liu, H. MacMillian, EL. Jutzeler, CR. Ljungberg, E. MacKay, AL. Kolind, SH. Mädler, B. Li, DK. Dvorak, MF. Curt, A. Laule, C. Kramer, JL. (2017). “Assessing structure and function of myelin in cervical spondylotic myelopathy.” <i>Neurology</i>, 89(6):602-610.'

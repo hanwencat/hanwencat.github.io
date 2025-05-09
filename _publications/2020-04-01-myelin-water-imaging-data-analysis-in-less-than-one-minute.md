@@ -6,7 +6,7 @@ permalink: /publication/2020-04-01-myelin-water-imaging-data-analysis-in-less-th
 excerpt: 'This study introduces a deep‐learning neural network that generates whole‐brain myelin water fraction (MWF) maps in under one minute—achieving R²>0.98 and mean absolute error <0.01 compared to conventional NNLS methods across multiple brain and spinal cord datasets, all without GPU acceleration.'
 date: 2020-04-01
 venue: 'NeuroImage'
-slidesurl: '/files/paper8.pdf'
+slidesurl: '/files/first_author/nn_speedup.pdf'
 paperurl: 'https://doi.org/10.1016/j.neuroimage.2020.116551'
 bibtexurl: '/files/bibtex8.bib'
 citation: 'Liu, H. Xiang, Q. Tam, R. Dvorak, AV. MacKay, AL. Kolind, SH. Traboulsee, A. Vavasour, IM. Li, DK. Kramer, JK. Laule, C. (2020). “Myelin water imaging data analysis in less than one minute.” <i>NeuroImage</i>, 210:116551.'

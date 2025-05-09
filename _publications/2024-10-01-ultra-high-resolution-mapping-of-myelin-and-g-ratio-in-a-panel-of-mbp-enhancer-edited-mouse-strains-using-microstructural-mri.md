@@ -6,7 +6,7 @@ permalink: /publication/2024-10-01-ultra-high-resolution-mapping-of-myelin-and-g
 excerpt: 'Leveraging a unique panel of variably hypomyelinating mouse strains, this study validates a high-resolution, model-free reconstruction method for whole-brain myelin water fraction and g-ratio mapping using bipolar gradient-echo MRI, and demonstrates tract-specific graded decreases in MWF that strongly correlate with Mbp mRNA levels.'
 date: 2024-10-01
 venue: 'NeuroImage'
-slidesurl: '/files/paper1.pdf'
+slidesurl: '/files/coauthor/vlad_mouse.pdf'
 paperurl: 'https://doi.org/10.1016/j.neuroimage.2024.120850'
 bibtexurl: '/files/bibtex1.bib'
 citation: 'Grouza, V. Bagheri, H. Liu, H. Tuznik, M. Wu, Z. Robinson, N. Siminovitch, KA. Peterson, AC. Rudko, DA. (2024). “Ultra-high-resolution mapping of myelin and g-ratio in a panel of Mbp enhancer-edited mouse strains using microstructural MRI.” <i>NeuroImage</i>, 300:120850.'

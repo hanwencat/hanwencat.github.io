@@ -6,7 +6,7 @@ permalink: /publication/2020-01-01-myelin-water-fraction-and-intra-extracellular
 excerpt: 'Using multiecho T2 myelin water imaging at 3 T, the authors generated normative atlases of both myelin water fraction and intra/extracellular geometric mean T2 in the cervical spinal cord, then applied voxel‐wise z-score mapping in MS patients to demonstrate sensitive detection of demyelinating lesions.'
 date: 2020-01-01
 venue: 'Journal of Neuroimaging'
-slidesurl: '/files/paper10.pdf'
+slidesurl: '/files/first_author/atlas_sc.pdf'
 paperurl: 'https://doi.org/10.1111/jon.12659'
 bibtexurl: '/files/bibtex10.bib'
 citation: 'Liu, H. Ljungberg, E. Dvorak, AV. Lee, LE. Yik, JT. MacMillan, EL. Barlow, L. Li, DK. Traboulsee, A. Kolind, SH. Kramer, JL. Laule, C. (2020). “Myelin Water Fraction and Intra/Extracellular Water Geometric Mean T2 Normative Atlases for the Cervical Spinal Cord from 3T MRI.” <i>Journal of Neuroimaging</i>, 30(1):50-57.'

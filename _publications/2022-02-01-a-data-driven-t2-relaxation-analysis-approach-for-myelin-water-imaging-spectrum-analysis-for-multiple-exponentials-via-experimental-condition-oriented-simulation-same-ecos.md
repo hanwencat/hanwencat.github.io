@@ -6,7 +6,7 @@ permalink: /publication/2022-02-01-a-data-driven-t2-relaxation-analysis-approach
 excerpt: 'Introducing SAME-ECOS—a data-driven spectrum-analysis method combining resolution-limit constraints with neural networks—this approach achieved over 15% higher cosine similarity and more than 10% lower myelin water fraction error than NNLS in simulations, demonstrated clearer separation of myelin water peaks in vivo, and produced whole-brain MWI maps 30× faster (≈3 min) than conventional methods.'
 date: 2022-02-01
 venue: 'Magnetic Resonance in Medicine'
-slidesurl: '/files/paper4.pdf'
+slidesurl: '/files/first_author/same-ecos.pdf'
 paperurl: 'https://doi.org/10.1002/mrm.29000'
 bibtexurl: '/files/bibtex4.bib'
 citation: 'Liu, H. Joseph, TS. Xiang, Q. Tam, R. Kozlowski, P. Li, DKB. MacKay, AL. Kramer, JLK. Laule, C. (2022). “A data‐driven T2 relaxation analysis approach for myelin water imaging: Spectrum analysis for multiple exponentials via experimental condition oriented simulation (SAME‐ECOS).” <i>Magnetic Resonance in Medicine</i>, 87(2):915-931.'

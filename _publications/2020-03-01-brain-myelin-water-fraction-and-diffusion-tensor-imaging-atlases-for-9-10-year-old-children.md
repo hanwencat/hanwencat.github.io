@@ -6,7 +6,7 @@ permalink: /publication/2020-03-01-brain-myelin-water-fraction-and-diffusion-ten
 excerpt: 'This study generated age-specific atlases of myelin water fraction (MWF) and diffusion tensor imaging (DTI) metrics from MRI scans of 20 healthy 9–10-year-olds, demonstrating regional variability in pediatric myelination and significant correlations between MWF and mean diffusivity—providing normative data critical for developmental and clinical neuroimaging studies.'
 date: 2020-03-01
 venue: 'Journal of Neuroimaging'
-slidesurl: '/files/paper9.pdf'
+slidesurl: '/files/coauthor/sarah_atlas.pdf'
 paperurl: 'https://doi.org/10.1111/jon.12689'
 bibtexurl: '/files/bibtex9.bib'
 citation: 'Morris, SR. Holmes, RD. Dvorak, AV. Liu, H. Yoo, Y. Vavasour, IM. Mazabel, S. Mädler, B. Kolind, SH. Li, DKB. Siegel, L. Beaulieu, C. MacKay, AL. Laule, C. (2020). “Brain Myelin Water Fraction and Diffusion Tensor Imaging Atlases for 9‐10 Year‐Old Children.” <i>Journal of Neuroimaging</i>, 30(2):150-160.'
