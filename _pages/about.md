@@ -10,9 +10,13 @@ redirect_from:
 I am Hanwen Liu, a researcher specializing in quantitative MRI techniques for measuring myelin content in the brain and spinal cord. My work integrates advanced signal modeling with machine learning and deep learning methods, focusing on the development of rapid myelin water imaging pipelines and the creation of normative atlases to provide sensitive and reproducible biomarkers of myelin.
 
 <div style="text-align: center;">
+  <img src='/images/Research-hub-noTitle.svg' style="margin-top: -120px; margin-bottom: 0px; position: relative;">
+</div>
+
+<!-- <div style="text-align: center;">
   <img src='/images/gifs/z.gif' style="width: 300px; border-radius: 30px;">
   <p style="font-size: 20px; margin-top: 10px;">Myelin distribution in the brain</p>
-</div>
+</div> -->
 
 
 Research Interests
