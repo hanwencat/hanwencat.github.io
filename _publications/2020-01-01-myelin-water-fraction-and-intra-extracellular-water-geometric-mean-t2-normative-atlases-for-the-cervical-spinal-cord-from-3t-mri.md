@@ -8,7 +8,7 @@ date: 2020-01-01
 venue: 'Journal of Neuroimaging'
 slidesurl: '/files/first_author/atlas_sc.pdf'
 paperurl: 'https://doi.org/10.1111/jon.12659'
-bibtexurl: '/files/bibtex10.bib'
+bibtexurl: '/files/bibtex/bibtex10.bib'
 citation: 'Liu, H. Ljungberg, E. Dvorak, AV. Lee, LE. Yik, JT. MacMillan, EL. Barlow, L. Li, DK. Traboulsee, A. Kolind, SH. Kramer, JL. Laule, C. (2020). “Myelin Water Fraction and Intra/Extracellular Water Geometric Mean T2 Normative Atlases for the Cervical Spinal Cord from 3T MRI.” <i>Journal of Neuroimaging</i>, 30(1):50-57.'
 ---
 **BACKGROUND AND PURPOSE:**

@@ -8,7 +8,7 @@ date: 2020-04-01
 venue: 'NeuroImage'
 slidesurl: '/files/first_author/nn_speedup.pdf'
 paperurl: 'https://doi.org/10.1016/j.neuroimage.2020.116551'
-bibtexurl: '/files/bibtex8.bib'
+bibtexurl: '/files/bibtex/bibtex8.bib'
 citation: 'Liu, H. Xiang, Q. Tam, R. Dvorak, AV. MacKay, AL. Kolind, SH. Traboulsee, A. Vavasour, IM. Li, DK. Kramer, JK. Laule, C. (2020). “Myelin water imaging data analysis in less than one minute.” <i>NeuroImage</i>, 210:116551.'
 ---
 **Purpose:**

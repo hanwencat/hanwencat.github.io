@@ -22,7 +22,7 @@ I am Hanwen Liu, a researcher specializing in quantitative MRI techniques for me
 Research Interests
 ======
 - **Data Acquisition:** quantitative MRI, portable MRI  
-- **Data Postprocessing:** signal modeling, machine learning, deep learning 
+- **Image Postprocessing:** signal modeling, machine learning, deep learning 
 - **Clinical Applications:** neurodegenerative diseases, spinal cord injury  
 
 

@@ -8,7 +8,7 @@ date: 2022-02-01
 venue: 'Magnetic Resonance in Medicine'
 slidesurl: '/files/first_author/same-ecos.pdf'
 paperurl: 'https://doi.org/10.1002/mrm.29000'
-bibtexurl: '/files/bibtex4.bib'
+bibtexurl: '/files/bibtex/bibtex4.bib'
 citation: 'Liu, H. Joseph, TS. Xiang, Q. Tam, R. Kozlowski, P. Li, DKB. MacKay, AL. Kramer, JLK. Laule, C. (2022). “A data‐driven T2 relaxation analysis approach for myelin water imaging: Spectrum analysis for multiple exponentials via experimental condition oriented simulation (SAME‐ECOS).” <i>Magnetic Resonance in Medicine</i>, 87(2):915-931.'
 ---
 **Purpose:**

@@ -8,7 +8,7 @@ date: 2021-12-01
 venue: 'Multiple Sclerosis Journal'
 slidesurl: '/files/coauthor/lisa_ms_cord.pdf'
 paperurl: 'https://doi.org/10.1177/13524585211001780'
-bibtexurl: '/files/bibtex5.bib'
+bibtexurl: '/files/bibtex/bibtex5.bib'
 citation: 'Lee, LE. Vavasour, IM. Dvorak, A. Liu, H. Abel, S. Johnson, P. Ristow, S. Au, S. Laule, C. Tam, R. Li, DK. Cross, H. Ackermans, N. Schabas, AJ. Chan, J. Sayao, A. Devonshire, V. Carruthers, R. Traboulsee, A. Kolind, S. (2021). “Cervical cord myelin abnormality is associated with clinical disability in multiple sclerosis.” <i>Multiple Sclerosis Journal</i>, 27(14):2191-2198.'
 ---
 **Background:**

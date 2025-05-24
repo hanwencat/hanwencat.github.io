@@ -8,7 +8,7 @@ date: 2019-11-01
 venue: 'Journal of Neuroimaging'
 slidesurl: '/files/first_author/atlas_brain.pdf'
 paperurl: 'https://doi.org/10.1111/jon.12657'
-bibtexurl: '/files/bibtex11.bib'
+bibtexurl: '/files/bibtex/bibtex11.bib'
 citation: 'Liu, H. Rubino, C. Dvorak, AV. Jarrett, M. Ljungberg, E. Vavasour, IM. Lee, LE. Kolind, SH. MacMillan, EL. Traboulsee, A. Lang, DJ. Rauscher, A. Li, DK. MacKay, AL. Boyd, LA. Kramer, JL. Laule, C. (2019). “Myelin Water Atlas: A Template for Myelin Distribution in the Brain.” <i>Journal of Neuroimaging</i>, 29(6):699-706.'
 ---
 **BACKGROUND AND PURPOSE:**

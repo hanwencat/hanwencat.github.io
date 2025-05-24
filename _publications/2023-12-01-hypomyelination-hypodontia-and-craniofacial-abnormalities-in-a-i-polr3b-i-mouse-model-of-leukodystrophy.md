@@ -8,7 +8,7 @@ date: 2023-12-01
 venue: 'Brain'
 slidesurl: '/files/coauthor/robinson_mouse.pdf'
 paperurl: 'https://doi.org/10.1093/brain/awad249'
-bibtexurl: '/files/bibtex2.bib'
+bibtexurl: '/files/bibtex/bibtex2.bib'
 citation: 'Michell-Robinson, MA. Watt, KEN. Grouza, V. Macintosh, J. Pinard, M. Tuznik, M. Chen, X. Darbelli, L. Wu, C. Perrier, S. Chitsaz, D. Uccelli, NA. Liu, H. Cox, TC. Müller, CW. Kennedy, TE. Coulombe, B. Rudko, DA. Trainor, PA. Bernard, G. (2023). “Hypomyelination, hypodontia and craniofacial abnormalities in a <i>Polr3b</i> mouse model of leukodystrophy.” <i>Brain</i>, 146(12):5070-5085.'
 ---
 RNA polymerase III (Pol III)-related hypomyelinating leukodystrophy (POLR3-HLD), also known as 4H leukodystrophy, is a severe neurodegenerative disease characterized by the cardinal features of hypomyelination, hypodontia and hypogonadotropic hypogonadism. POLR3-HLD is caused by biallelic pathogenic variants in genes encoding Pol III subunits. While approximately half of all patients carry mutations in POLR3B encoding the RNA polymerase III subunit B, there is no in vivo model of leukodystrophy based on mutation of this Pol III subunit.
