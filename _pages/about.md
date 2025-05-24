@@ -7,20 +7,26 @@ redirect_from:
   - /about.html
 ---
 ------
-I am Hanwen Liu, a researcher specializing in quantitative MRI techniques to characterize white matter pathology in conditions such as multiple sclerosis and spinal cord injury. My work combines advanced signal modeling, machine learning, and deep learning methods, focusing on rapid myelin water imaging pipelines and normative atlas creation to provide sensitive and reproducible biomarkers of demyelination. 
+I am Hanwen Liu, a researcher specializing in quantitative MRI techniques for measuring myelin content in the brain and spinal cord. My work integrates advanced signal modeling with machine learning and deep learning methods, focusing on the development of rapid myelin water imaging pipelines and the creation of normative atlases to provide sensitive and reproducible biomarkers of myelin.
 
-Research & Interests
+<div style="text-align: center;">
+  <img src='/images/gifs/z.gif' style="width: 300px; border-radius: 30px;">
+  <p style="font-size: 20px; margin-top: 10px;">Myelin distribution in the brain</p>
+</div>
+
+
+Research Interests
 ======
-- **Techniques:** quantitative MRI, portable MRI  
-- **Applications:** neurodegenerative diseases, spinal cord injury  
-- **Methods:** signal modeling, machine learning, deep learning 
+- **Data Acquisition:** quantitative MRI, portable MRI  
+- **Data Postprocessing:** signal modeling, machine learning, deep learning 
+- **Clinical Applications:** neurodegenerative diseases, spinal cord injury  
 
 
-Funding Support
+<!-- Funding Support
 ======
-My research has been supported by the Michael Smith Foundation for Health Research and the Multiple Sclerosis Society of Canada.
+My research has been supported by the Michael Smith Foundation for Health Research and the Multiple Sclerosis Society of Canada. -->
 
 
-For More Info
+<!-- For More Info -->
 ------
-More info about my research can be found in [Projects](/portfolio/) and [Publications](/publications/).
+More info about my research can be found in [Projects](/projects/) and [Publications](/publications/).
