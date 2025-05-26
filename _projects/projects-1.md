@@ -1,5 +1,5 @@
 ---
-title: "Algorithm"
+title: "Algorithm Project"
 # title: "Algorithm Development for Myelin Water Imaging"
 excerpt: "Several ML and DL based algorithms were developed for a fast, robust and accurate myelin water imaging (MWI) data postprocessing.<br/><img src='/images/projects/same-ecos.jpg' width='580px' style='display:inline-block'>"
 collection: projects

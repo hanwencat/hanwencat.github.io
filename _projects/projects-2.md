@@ -1,5 +1,5 @@
 ---
-title: "Atlas"
+title: "Atlas Project"
 # title: "Atlas Creation for Myelin Mapping in the Brain and Spinal Cord"
 excerpt: "Myelin water atlases were created to show normative  myelin distribution in healthy human brain and spinal cord.<br/><img src='/images/gifs/z.gif'><img src='/images/gifs/y.gif'><img src='/images/gifs/x.gif'>"
 collection: projects

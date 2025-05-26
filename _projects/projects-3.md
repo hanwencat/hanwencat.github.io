@@ -1,5 +1,5 @@
 ---
-title: "Application"
+title: "Application Project"
 # title: "Myelin Water Imaging Application"
 excerpt: "Myelin water imaging (MWI) was applied to detect demyelination in common neurodegenerative diseases, such as multiple sclerosis (MS) and cervical spondylotic myelopathy (CSM).<br/><img src='/images/projects/ms.jpg' style='border: 1.5px solid #000; width: 580px;'>"
 collection: projects
