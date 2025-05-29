@@ -22,7 +22,7 @@ repository               : "hanwencat/hanwencat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Hanwen.png"
+  avatar           : "Hanwen.png" # filename of avatar image placed in /images/, e.g. "avatar.png"
   name             : "Hanwen Liu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow at UBC"

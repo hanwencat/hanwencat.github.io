@@ -7,28 +7,31 @@ redirect_from:
   - /about.html
 ---
 ------
-I am Hanwen Liu, a researcher specializing in quantitative MRI techniques for measuring myelin content in the brain and spinal cord. My work integrates advanced signal modeling with machine learning and deep learning methods, focusing on the development of rapid myelin water imaging pipelines and the creation of normative atlases to provide sensitive and reproducible biomarkers of myelin.
 
 <!-- <div style="text-align: center;">
   <img src='/images/Research-hub-noTitle.svg' style="margin-top: -120px; margin-bottom: 0px; position: relative;">
 </div> -->
 
+
+I am Hanwen Liu, a researcher specializing in quantitative MRI techniques for measuring myelin content in the brain and spinal cord. My work integrates advanced signal modeling with machine learning and deep learning methods, focusing on the development of rapid myelin water imaging pipelines and the creation of normative atlases to provide sensitive and reproducible biomarkers of myelin.
 <div style="text-align: center;">
-  <!-- <h3 style="margin-bottom: 30px;">Research Overview</h3> -->
   <div style="position: relative;">
-    <img src='/images/Research-hub-noTitle.svg' style="margin-top: -120px; margin-bottom: 0px;">
-    <div style="position: absolute; top: calc(50% - 25px); left: calc(50% + 10px); transform: translate(-50%, -50%);">
-      <img src='/images/gifs/z.gif' style="width: 130px; border-radius: 30px;">
+    <img src='/images/Research-hub-nohub.svg' style="margin-top: 0px; margin-bottom: 0px; width: 100%;">
+    <div style="position: absolute; top: calc(50% + 10px); left: calc(50% + 8px); transform: translate(-50%, -50%);">
+      <img src='/images/gifs/z.gif' style="width: 15vw; min-width: 90px; max-width: 120px; border-radius: 30px;">
       <p style="font-size: 20px; margin-top: 10px;"> </p>
     </div>
   </div>
 </div>
 
 
-Research Interests
-======
+<!-- <img src='/images/Research-hub.svg'> -->
+
+<!-- <br/> -->
+
+# Research Interests
 - **Data Acquisition:** quantitative MRI, portable MRI  
-- **Image Postprocessing:** signal modeling, machine learning, deep learning 
+- **Image Processing:** signal modeling, machine/deep learning 
 - **Clinical Applications:** neurodegenerative diseases, spinal cord injury  
 
 
