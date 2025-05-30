@@ -46,16 +46,16 @@ redirect_from:
 
 ---
 # Service and Contribution
-- Reviewer for leading journals in the MRI field:
+- **Reviewer for leading journals in the MRI field:**
   - *NeuroImage*
   - *Magnetic Resonance in Medicine*
   - *Medical Physics*
 
-- Reviewer for research funding agencies:
+- **Reviewer for research funding agencies:**
   - Dutch Research Council (NWO)
   - Saskatchewan Health Research Foundation (SHRF)
   
-- Contributor to open science and community resources:
+- **Contributor to open science and community resources:**
   - Publicly available myelin water atlases  
     - For the brain: [https://sourceforge.net/projects/myelin-water-atlas/](https://sourceforge.net/projects/myelin-water-atlas/)
     - For the spinal cord: [https://sourceforge.net/projects/mwi-spinal-cord-atlases/](https://sourceforge.net/projects/mwi-spinal-cord-atlases/)
