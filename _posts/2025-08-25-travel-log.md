@@ -56,7 +56,7 @@ tags:
 
 
 
-### 傍晚时分的Waikiki好美，当然人更美。我推着婴儿车，看她两在前面走，希望时间在此时定格。
+### 傍晚时分的Waikiki好美，当然人更美。推着婴儿车，看她两在前面走，希望时间在此时定格。
 
 <video src="{{ '/images/images-hawaii/IMG_4546.MOV' | relative_url }}" controls playsinline preload="auto" style="max-width:100%"></video>
 
