@@ -12,8 +12,9 @@ redirect_from:
   <img src='/images/Research-hub-noTitle.svg' style="margin-top: -120px; margin-bottom: 0px; position: relative;">
 </div> -->
 
+I am Hanwen Liu, a Neuroimaging Researcher specializing in quantitative MRI, medical image analysis, and AI for medical imaging. My research focuses on developing AI-driven methods for faster and more robust quantitative imaging analysis, as well as end-to-end predictive models for disease identification from MRI data. I am interested in translating advanced neuroimaging methodologies into accurate, efficient, and clinically relevant tools for biomedical research and healthcare.
 
-I am Hanwen Liu, a researcher specializing in quantitative MRI techniques for measuring myelin content in the brain and spinal cord. My work integrates advanced signal modeling with machine learning and deep learning methods, focusing on the development of rapid myelin water imaging pipelines and the creation of normative atlases to provide sensitive and reproducible biomarkers of myelin.
+<!-- I am Hanwen Liu, a researcher specializing in quantitative MRI techniques for measuring myelin content in the brain and spinal cord. My work integrates advanced signal modeling with machine learning and deep learning methods, focusing on the development of rapid myelin water imaging pipelines and the creation of normative atlases to provide sensitive and reproducible biomarkers of myelin. -->
 <div style="text-align: center;">
   <div style="position: relative;">
     <img src='/images/Research-hub-new2.svg' style="margin-top: 0px; margin-bottom: 18px; width: 100%;">

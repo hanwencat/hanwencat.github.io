@@ -16,7 +16,12 @@ redirect_from:
 
 ---
 # Work Experience
-- **Sep. 2021 – Present: Postdoctoral Fellow**
+- **Mar. 2026 – Present: Neuroimaging Algorithm Researcher**
+  - GYENNO SCIENCE (https://www.gyenno.com), Shenzhen, China 
+  - Develop neuroimaging data analysis pipelines
+  - Develop AI models for Parkinson's disease prediction
+
+- **Sep. 2021 – Sep. 2025: Postdoctoral Fellow**
   - MRI Research Center, University of British Columbia, Vancouver, BC, Canada 
   - Work on a low-field (64mT) portable MRI system (Hyperfine)
   - Build quantitative analysis algorithms for low-SNR MWI data
@@ -31,7 +36,7 @@ redirect_from:
 - **MRI Imaging & Analysis**
   - Portable, Low-field and High-field MRI Systems (64mT, 3T, 7T)
   - Signal Modeling & Image Postprocessing
-- **Data Science & Programming**
+- **AI & Programming**
   - Machine Learning & Deep Learning
   - Python, MATLAB, Javascript
 - **Technical & Analytical Expertise**
@@ -128,4 +133,3 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-
