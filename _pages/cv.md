@@ -17,7 +17,7 @@ redirect_from:
 ---
 # Work Experience
 - **Mar. 2026 – Present: Neuroimaging Algorithm Researcher**
-  - GYENNO SCIENCE (https://www.gyenno.com), Shenzhen, China 
+  - GYENNO SCIENCE, Shenzhen, China 
   - Develop neuroimaging data analysis pipelines
   - Develop AI models for Parkinson's disease prediction
 
